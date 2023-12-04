@@ -9,7 +9,7 @@
 [<img align="left" alt="JoshLunsford | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-[linkedin]: www.linkedin.com/in/joshua-lunsford
+[linkedin]: https://www.linkedin.com/in/joshua-lunsford
 
 
 <!--
